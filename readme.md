@@ -38,9 +38,7 @@ Além disso, você precisará ter as seguintes dependências instaladas para cad
 
 3.  Siga as instruções específicas de cada linguagem para instalar as dependências e executar os exemplos.
 
-## Exemplos de código
+## Contribuição
 
-### Python ([`kafka.py`](kafka.py))
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções ou exemplos adicionais.
 
-```python
-# Código Python
